@@ -1,5 +1,9 @@
 # Awesome Applied AI Researcher (Generative 3D) Interview Q&A 🧊🎨🧠
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Generative 3D Interview QA Banner" width="100%">
+</p>
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -18,19 +22,19 @@ Every answer aims to be **concise, correct, and interview-ready** — the kind o
 
 | # | Topic | Questions | Difficulty Mix |
 |---|-------|-----------|-----------------|
-| 01 | [3D Representations Fundamentals](topics/01-3d-representations-fundamentals.md) | 11 | Easy → Hard |
-| 02 | [Generative Modeling Fundamentals](topics/02-generative-modeling-fundamentals.md) | 11 | Medium → Hard |
-| 03 | [Diffusion Models for 3D Generation](topics/03-diffusion-models-3d-generation.md) | 10 | Medium → Hard |
-| 04 | [Neural & Differentiable Rendering](topics/04-neural-differentiable-rendering.md) | 10 | Medium → Hard |
-| 05 | [Text-to-3D & Multimodal Conditioning](topics/05-text-to-3d-multimodal-conditioning.md) | 9 | Medium → Hard |
-| 06 | [Neural Fields: NeRF & Gaussian Splatting](topics/06-neural-fields-nerf-gaussian-splatting.md) | 10 | Medium → Hard |
-| 07 | [Mesh Generation, Topology & Post-Processing](topics/07-mesh-generation-topology.md) | 9 | Medium → Hard |
-| 08 | [Texture, Material & Appearance Generation](topics/08-texture-material-appearance.md) | 9 | Medium → Hard |
-| 09 | [3D Data Pipelines, Datasets & Preprocessing](topics/09-3d-data-pipelines-datasets.md) | 9 | Medium |
-| 10 | [Evaluation Metrics for Generative 3D](topics/10-evaluation-metrics-generative-3d.md) | 9 | Medium → Hard |
-| 11 | [Training Infrastructure & Scaling](topics/11-training-infrastructure-scaling.md) | 9 | Medium → Hard |
-| 12 | [Research Methodology & Experimentation](topics/12-research-methodology-experimentation.md) | 9 | Medium → Hard |
-| 13 | [Scenario-based & Behavioral](topics/13-scenario-behavioral.md) | 10 | Medium → Hard |
+| 01 | 🧊 [3D Representations Fundamentals](topics/01-3d-representations-fundamentals.md) | 11 | Easy → Hard |
+| 02 | 🧠 [Generative Modeling Fundamentals](topics/02-generative-modeling-fundamentals.md) | 11 | Medium → Hard |
+| 03 | 🌪️ [Diffusion Models for 3D Generation](topics/03-diffusion-models-3d-generation.md) | 10 | Medium → Hard |
+| 04 | 📸 [Neural & Differentiable Rendering](topics/04-neural-differentiable-rendering.md) | 10 | Medium → Hard |
+| 05 | 🗣️ [Text-to-3D & Multimodal Conditioning](topics/05-text-to-3d-multimodal-conditioning.md) | 9 | Medium → Hard |
+| 06 | 🌌 [Neural Fields: NeRF & Gaussian Splatting](topics/06-neural-fields-nerf-gaussian-splatting.md) | 10 | Medium → Hard |
+| 07 | 🕸️ [Mesh Generation, Topology & Post-Processing](topics/07-mesh-generation-topology.md) | 9 | Medium → Hard |
+| 08 | ✨ [Texture, Material & Appearance Generation](topics/08-texture-material-appearance.md) | 9 | Medium → Hard |
+| 09 | 🚰 [3D Data Pipelines, Datasets & Preprocessing](topics/09-3d-data-pipelines-datasets.md) | 9 | Medium |
+| 10 | 📏 [Evaluation Metrics for Generative 3D](topics/10-evaluation-metrics-generative-3d.md) | 9 | Medium → Hard |
+| 11 | 🏗️ [Training Infrastructure & Scaling](topics/11-training-infrastructure-scaling.md) | 9 | Medium → Hard |
+| 12 | 🔬 [Research Methodology & Experimentation](topics/12-research-methodology-experimentation.md) | 9 | Medium → Hard |
+| 13 | 🎭 [Scenario-based & Behavioral](topics/13-scenario-behavioral.md) | 10 | Medium → Hard |
 
 **Total: 125 questions** in v1, growing with community contributions.
 
@@ -46,12 +50,12 @@ Every answer aims to be **concise, correct, and interview-ready** — the kind o
 
 | Role | Prioritize |
 |------|------------|
-| 3D Generative AI Researcher (generalist) | 3D Representations, Generative Modeling Fundamentals, Diffusion for 3D, Evaluation Metrics |
-| Text-to-3D / Multimodal Researcher | Text-to-3D & Conditioning, Diffusion for 3D, Neural Fields, Research Methodology |
-| Neural Rendering Research Engineer | Neural & Differentiable Rendering, Neural Fields (NeRF/Gaussian Splatting), Training Infra |
-| 3D Asset / Mesh Generation Researcher | Mesh Generation & Topology, Texture/Material Generation, 3D Data Pipelines |
-| Research Engineer (infra-leaning) | Training Infrastructure & Scaling, 3D Data Pipelines, Research Methodology |
-| Applied Scientist (product-facing) | Evaluation Metrics, Text-to-3D & Conditioning, Scenario-based & Behavioral |
+| 🚀 3D Generative AI Researcher (generalist) | 3D Representations, Generative Modeling Fundamentals, Diffusion for 3D, Evaluation Metrics |
+| 💬 Text-to-3D / Multimodal Researcher | Text-to-3D & Conditioning, Diffusion for 3D, Neural Fields, Research Methodology |
+| 📸 Neural Rendering Research Engineer | Neural & Differentiable Rendering, Neural Fields (NeRF/Gaussian Splatting), Training Infra |
+| 🗿 3D Asset / Mesh Generation Researcher | Mesh Generation & Topology, Texture/Material Generation, 3D Data Pipelines |
+| ⚙️ Research Engineer (infra-leaning) | Training Infrastructure & Scaling, 3D Data Pipelines, Research Methodology |
+| 📱 Applied Scientist (product-facing) | Evaluation Metrics, Text-to-3D & Conditioning, Scenario-based & Behavioral |
 
 ---
 
@@ -80,12 +84,12 @@ Awesome-Applied-AI-Researcher-Generative3D-Interview-QA/
 
 ## 🛣️ Roadmap (v2+)
 
-- [ ] Add "Paper tags" (which questions map to specific influential papers — DreamFusion, Zero-1-to-3, 3D Gaussian Splatting, Point-E/Shap-E, Instant-NGP, etc.)
-- [ ] Add a `/mock-interviews` folder with full simulated research-presentation and whiteboard-derivation sessions
-- [ ] Add difficulty badges per question
-- [ ] Add worked derivations for the diffusion ELBO/score-matching objective and volumetric rendering equation
-- [ ] Add a companion cheat-sheet repo comparing 3D representation tradeoffs and generative model family tradeoffs
-- [ ] Community-submitted "how I answered this in a real interview" notes
+- [ ] 🏷️ Add "Paper tags" (which questions map to specific influential papers — DreamFusion, Zero-1-to-3, 3D Gaussian Splatting, Point-E/Shap-E, Instant-NGP, etc.)
+- [ ] 🎬 Add a `/mock-interviews` folder with full simulated research-presentation and whiteboard-derivation sessions
+- [ ] 🎖️ Add difficulty badges per question
+- [ ] 📝 Add worked derivations for the diffusion ELBO/score-matching objective and volumetric rendering equation
+- [ ] 📖 Add a companion cheat-sheet repo comparing 3D representation tradeoffs and generative model family tradeoffs
+- [ ] 💡 Community-submitted "how I answered this in a real interview" notes
 
 ## 🤝 Contributing
 
