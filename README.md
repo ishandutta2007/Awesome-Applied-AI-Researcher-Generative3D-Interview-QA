@@ -93,6 +93,17 @@ Awesome-Applied-AI-Researcher-Generative3D-Interview-QA/
 - [ ] 📖 Add a companion cheat-sheet repo comparing 3D representation tradeoffs and generative model family tradeoffs
 - [ ] 💡 Community-submitted "how I answered this in a real interview" notes
 
+## Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Applied-AI-Researcher-Generative3D-Interview-QA&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Applied-AI-Researcher-Generative3D-Interview-QA&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Applied-AI-Researcher-Generative3D-Interview-QA&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Applied-AI-Researcher-Generative3D-Interview-QA&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ## 🤝 Contributing
 
 This is meant to be a living, community-curated resource. See [CONTRIBUTING.md](CONTRIBUTING.md) for the format to follow when submitting a question.
